@@ -1,0 +1,13 @@
+{
+  "name": "ipfs-test",
+  "version": "1.0.0",
+  "description": "IPFS tutorial",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ipfs-http-client": "^47.0.1",
+    "it-all": "^1.0.4",
+    "uint8arrays": "^1.1.0"
+  }
+}
